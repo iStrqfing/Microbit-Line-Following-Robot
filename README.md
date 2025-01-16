@@ -1,3 +1,14 @@
+# Versions
+
+## V1
+Robot follows a black line in a closed track.
+
+## V2
+Robot follows a black line track with intersections. Upon an intersection robot goes straight through it. Has object detection for detecting when something gets infront of the robots sensor. Upon sensing an object the robot stops. 
+
+## V3
+Robot follows a black line track with intersections. Upon an intersection robot goes left then right alternating at each intersection.
+
 # microbit-v2-samples
 
 [![Native Build Status](https://github.com/lancaster-university/microbit-v2-samples/actions/workflows/build.yml/badge.svg)](https://github.com/lancaster-university/microbit-v2-samples/actions/workflows/build.yml) [![Docker Build Status](https://github.com/lancaster-university/microbit-v2-samples/actions/workflows/docker-image.yml/badge.svg)](https://github.com/lancaster-university/microbit-v2-samples/actions/workflows/docker-image.yml)
